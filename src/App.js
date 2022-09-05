@@ -23,7 +23,6 @@ function App() {
         </p>
        
         <Router>
-            
             <Routes>
               <Route path='/' element = {<Inicio/>}/>
               <Route path='/Contacto' element = {<Contacto/>}/>
